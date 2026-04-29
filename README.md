@@ -181,6 +181,8 @@ void encryptDecryptText(char *text, char matrix[SIZE][SIZE], int encrypt) {
 
 ## Output:
 <img width="1638" height="917" alt="ex2" src="https://github.com/user-attachments/assets/b242c35f-1fb8-4fc7-9940-d7a2a82b63fe" />
+
+
 ## Result: 
 Thus, the C program for the  IMPLEMENTATION OF PLAYFAIR CIPHER executed successfully
 
